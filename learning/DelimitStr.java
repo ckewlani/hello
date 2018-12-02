@@ -2,8 +2,8 @@ package com.selenium.webdriver.learning;
 
 public class DelimitStr {
 	
-	static String b="Srno,name,Address,Phno,BG,Gender";
-	static String a="1,Chandrabhan,c78, sector 1, Raipur,7587145392,o+,Male";
+	 String b="Srno,name,Address,Phno,BG,Gender";
+	 String a="1,Chandrabhan,c78, sector 1, Raipur,7587145392,o+,Male";
 
 	public static void main(String args[])
 	
